@@ -6,6 +6,11 @@ const initialItems: Item[] = [
     { id: "3", name: "Ténis Branco", price: 79.99 },
     { id: "4", name: "Casaco de Inverno", price: 119.99 },
     { id: "5", name: "Óculos de Sol", price: 19.99 },
+    { id: "6", name: "Relógio de Pulso", price: 89.99 },
+    { id: "7", name: "Mochila Escolar", price: 39.99 },
+    { id: "8", name: "Boné Vermelho", price: 14.99 },
+    { id: "9", name: "Cinto de Couro", price: 24.99 },
+    { id: "10", name: "Carteira Preta", price: 34.99 }
 ];
 
 
